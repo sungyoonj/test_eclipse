@@ -7,6 +7,6 @@
 <title>Insert title here</title>
 </head>
 <body>
-
+테스트JSP 입니다
 </body>
 </html>
